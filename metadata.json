@@ -1,0 +1,6 @@
+{
+  "name": "Subastas Sneakers",
+  "description": "Plataforma de subastas en tiempo real para calzado deportivo original.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
